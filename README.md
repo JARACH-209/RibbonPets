@@ -20,7 +20,7 @@ A self-contained IIFE that spawns animated pixel-art cats on your site's navbar.
 ## Usage
 
 ```html
-<script src="pet-widget.js"></script>
+<script src="ribbon_pet.js"></script>
 ```
 
 That's it. Hover the 🐱 button (bottom-right) → pick a breed → watch them roam.
